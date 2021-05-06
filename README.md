@@ -8,7 +8,7 @@ I train my cspdarknet53 on ImageNet with 224 input size rather than 256 input si
 
 <tr><th align="left" bgcolor=#f8f8f8> cspdarknet53</th><td bgcolor=white> 224 </td><td bgcolor=white> 75.7 </td></tr>
 
-<tr><th align="left" bgcolor=#f8f8f8> cspdarknet53-448 </th><td bgcolor=white> 224 </td><td bgcolor=white> 76.9 </td></tr>
+<tr><th align="left" bgcolor=#f8f8f8> cspdarknet53-448 </th><td bgcolor=white> 448 </td><td bgcolor=white> 76.9 </td></tr>
 
 </table></tbody>
 
