@@ -174,7 +174,7 @@ def cspdarknet_slim(pretrained=False, **kwargs):
     if pretrained:
         path_to_dir = os.path.dirname(os.path.abspath(__file__))
         print('Loading the cspdarknet_slim ...')
-        model.load_state_dict(torch.load(path_to_dir + '/weights/cspdarknet_slim/cspdarknet_slim.pth', map_location='cuda'), strict=False)
+        model.load_state_dict(torch.load(path_to_dir + '/weights/cspdarknet_slim/cspdarknet_slim_72.44.pth', map_location='cuda'), strict=False)
     return model
 
 

@@ -12,6 +12,15 @@ I train my cspdarknet53 on ImageNet with 224 input size rather than 256 input si
 
 </table></tbody>
 
+<table><tbody>
+<tr><th align="left" bgcolor=#f8f8f8> </th>     <td bgcolor=white> size </td><td bgcolor=white> acc1 </td></tr>
+
+<tr><th align="left" bgcolor=#f8f8f8> cspdarknets_slim</th><td bgcolor=white> 224 </td><td bgcolor=white> 72.4 </td></tr>
+
+<tr><th align="left" bgcolor=#f8f8f8> cspdarknet53_slim-448 </th><td bgcolor=white> 448 </td><td bgcolor=white> - </td></tr>
+
+</table></tbody>
+
 # Model
 Everyone can download the pretrained model from my BaiDuYunDisk:
 
