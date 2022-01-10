@@ -3,6 +3,8 @@ CSPDarkNet53
 
 I train my cspdarknet53 on ImageNet with 224 input size rather than 256 input size.
 
+Attention, my CSPDarkNet-53 uses LeakyRelu rather than Mish. I tried Mish but failed. I have no idea how to get better performance with Mish on ImageNet.
+
 <table><tbody>
 <tr><th align="left" bgcolor=#f8f8f8> </th>     <td bgcolor=white> size </td><td bgcolor=white> acc1 </td></tr>
 
